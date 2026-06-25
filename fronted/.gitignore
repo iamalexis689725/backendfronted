@@ -1,0 +1,11 @@
+# Flutter
+.dart_tool/
+.build/
+.flutter-plugins
+.packages
+.pub-cache/
+pubspec.lock
+.idea/
+*.iml
+*.log
+build/
